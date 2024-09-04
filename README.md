@@ -40,6 +40,8 @@ import seaborn as sns
 from sklearn.metrics import confusion_matrix
 import folium
 from folium.plugins import HeatMap
+import numpy as np
+from itertools import combinations
 ```
 
 ## Estrutura do Código
